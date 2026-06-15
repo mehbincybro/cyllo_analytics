@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data noupdate="1">
+        <record id="preset_growth_percentage" model="calculation.preset">
+            <field name="name">Growth (%)</field>
+            <field name="description">Calculate the percentage growth between two values (e.g., current vs previous period).</field>
+            <field name="formula">({current} - {previous}) / {previous} * 100</field>
+            <field name="variables">[{"name": "current"}, {"name": "previous"}]</field>
+            <field name="calculation_type">aggregate</field>
+            <field name="category">Common Formulas</field>
+        </record>
+
+        <record id="preset_profit_margin_percentage" model="calculation.preset">
+            <field name="name">Gross Margin (%)</field>
+            <field name="description">Calculate the Gross Profit margin percentage</field>
+            <field name="formula">({sale.unit_price} - {product.cost})* quantity</field>
+            <field name="variables">[{"name": "unit_price"}, {"name": "product.cost"}]</field>
+            <field name="calculation_type">row</field>
+            <field name="category">Common Formulas</field>
+        </record>
+    </data>
+</odoo>

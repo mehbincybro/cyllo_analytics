@@ -1,0 +1,1912 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* cyllo_analytics
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-30 05:26+0000\n"
+"PO-Revision-Date: 2025-12-30 05:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid ""
+"\" from the\n"
+"                                            top right corner of the sheet's form\n"
+"                                            view."
+msgstr "\" desde la esquina superior derecha de la vista del formulario de la hoja.\""
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "\"Add Graph\" on the top right corner"
+msgstr "\"Agregar gráfico\" en la esquina superior derecha"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#, python-format
+msgid ""
+"% of the full\n"
+"                                        dataset."
+msgstr "% del conjunto completo de datos."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/sheetFilterDomain.xml:0
+#, python-format
+msgid "+ Choose Model"
+msgstr "+ Elegir modelo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid ""
+"A dimension refers to a qualitative\n"
+"                                    attribute or category used to categorize and\n"
+"                                    organize data. Dimensions are typically\n"
+"                                    non-numeric fields that provide context to\n"
+"                                    the measures in the database.Examples of\n"
+"                                    dimensions in Cyllo could include \"Product\n"
+"                                    Category,\" \"Customer Type,\" or \"Location.\""
+msgstr ""
+"Una dimensión se refiere a un atributo cualitativo o categoría utilizada para categorizar y organizar los datos. "
+"Las dimensiones son típicamente campos no numéricos que proporcionan contexto a las medidas en la base de datos. "
+"Ejemplos de dimensiones en Cyllo podrían incluir \"Categoría de producto\", \"Tipo de cliente\" o \"Ubicación\"."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid ""
+"A measure in an Cyllo database represents a\n"
+"                                    quantitative, numeric value that can be\n"
+"                                    subjected to mathematical operations or\n"
+"                                    statistical analysis. Measures are fields\n"
+"                                    that store numerical data, such as\n"
+"                                    quantities, amounts, or other numeric\n"
+"                                    indicators related to business processes.\n"
+"                                    Examples of measures in Cyllo may include\n"
+"                                    \"Total Sales Amount,\" \"Quantity Sold,\" or\n"
+"                                    \"Average Unit Price.\""
+msgstr ""
+
+#. module: cyllo_analytics
+#: model_terms:ir.ui.view,arch_db:cyllo_analytics.view_res_config_settings_form
+msgid "AI Credentials"
+msgstr "Credenciales de IA"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "AI Insights"
+msgstr "Información de IA"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_ir_actions_act_window_view
+msgid "Action Window View"
+msgstr "Vista de ventana de acción"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__is_active
+msgid "Active"
+msgstr "Activo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Add Filter"
+msgstr "Agregar filtro"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Add Graph"
+msgstr "Agregar gráfico"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/views/tile/tile_controller.xml:0
+#, python-format
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "Add New Rule"
+msgstr "Agregar nueva regla"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/menu_dialog_templates.xml:0
+#, python-format
+msgid "Add To Menu"
+msgstr "Agregar al menú"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/tests/tours/dashboard_onboarding.js:0
+#, python-format
+msgid "Add a name here."
+msgstr "Agrega un nombre aquí."
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,help:cyllo_analytics.field_dashboard_config_menu__name
+msgid "Add the name for the new menu"
+msgstr "Agrega el nombre para el nuevo menú"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Add to Menu"
+msgstr "Agregar al menú"
+
+#. module: cyllo_analytics
+#: model:res.groups,name:cyllo_analytics.group_cyllo_analytics_admin
+msgid "Admin/Analyst"
+msgstr "Administrador/Analista"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__alias
+msgid "Alias"
+msgstr "Alias"
+
+#. module: cyllo_analytics
+#: model:ir.actions.act_window,name:cyllo_analytics.action_view_templates
+msgid "Analytic Dashboard"
+msgstr "Panel Analítico"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "And add this \""
+msgstr "Y agrega esto \""
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/filter_dropdown.xml:0
+#, python-format
+msgid "Apply Filter"
+msgstr "Aplicar filtro"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__4
+msgid "April"
+msgstr "Abril"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/delete_dialog_box.js:0
+#, python-format
+msgid "Are you sure you want to delete this dashboard ?"
+msgstr "¿Estás seguro de que deseas eliminar este panel?"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#, python-format
+msgid ""
+"Ask\n"
+"                                            More..."
+msgstr "Preguntar\nMás..."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/presentation_maker.xml:0
+#, python-format
+msgid "Attention"
+msgstr "Atención"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__attributes
+msgid "Attributes"
+msgstr "Atributos"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__8
+msgid "August"
+msgstr "Agosto"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__auto_slide
+#, python-format
+msgid "Auto Slide"
+msgstr "Desplazamiento automático"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__auto_slide_time
+msgid "Auto Slide Duration"
+msgstr "Duración del desplazamiento automático"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/edit_dashboard.xml:0
+#, python-format
+msgid "Back"
+msgstr "Atrás"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__background
+msgid "Background"
+msgstr "Fondo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__banner_id
+#, python-format
+msgid "Banner"
+msgstr "Banner"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__monetaryInBase
+msgid "Base Value Query"
+msgstr "Consulta de valor base"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__body_header_background
+msgid "Body Header Background"
+msgstr "Fondo del encabezado del cuerpo"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__border_color
+msgid "Border Color"
+msgstr "Color del borde"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__border_width
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/delete_dialog_box.js:0
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/import_dialog.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/menu_dialog_templates.xml:0
+#, python-format
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: cyllo_analytics
+#: model:ir.module.category,description:cyllo_analytics.ir_module_category_cyllo_analytic_dashboard_access
+msgid ""
+"Category for Cyllo Analytic Dashboard module\n"
+"        "
+msgstr "Categoría para el módulo de panel analítico de Cyllo"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__chart_data
+msgid "Chart Data"
+msgstr "Datos del gráfico"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid ""
+"Choose one or more tables from the dropdown. Tables will\n"
+"                        be linked using relational fields.\n"
+"                        All the fields will be grouped into measures and\n"
+"                        dimensions for analysis."
+msgstr ""
+"Elija una o más tablas del menú desplegable. Las tablas se\n"
+" vincularán mediante campos relacionales.\n"
+" Todos los campos se agruparán en medidas y\n"
+" dimensiones para el análisis."
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,help:cyllo_analytics.field_dashboard_config_menu__menu_id
+msgid "Choose the parent menu"
+msgstr "Elija el menú principal"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "Clear"
+msgstr "Borrar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/tests/tours/dashboard_onboarding.js:0
+#, python-format
+msgid "Click here to add a new Graph."
+msgstr "Haga clic aquí para agregar un nuevo gráfico."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/tests/tours/dashboard_onboarding.js:0
+#, python-format
+msgid "Click here to save sheet"
+msgstr "Haga clic aquí para guardar la hoja"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Click on the"
+msgstr "Haga clic en el"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/delete_dialog_templates.xml:0
+#, python-format
+msgid "Close"
+msgstr "Cerrar"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__code
+msgid "Code"
+msgstr "Código"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__name
+msgid "Color"
+msgstr "Color"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__column
+msgid "Column"
+msgstr "Columna"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__company_id
+#, python-format
+msgid "Company"
+msgstr "Compañía"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_res_config_settings
+msgid "Config Settings"
+msgstr "Configuración"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Configuration"
+msgstr "Configuración"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/delete_dialog_box.js:0
+#: code:addons/cyllo_analytics/static/src/xml/delete_dialog_templates.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/menu_dialog_templates.xml:0
+#, python-format
+msgid "Confirm"
+msgstr "Confirmar"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__create_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__create_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__create_date
+msgid "Created on"
+msgstr "Creado el"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__currency_id
+msgid "Currency"
+msgstr "Moneda"
+
+#. module: cyllo_analytics
+#: model_terms:ir.ui.view,arch_db:cyllo_analytics.view_dashboard_config_tile
+msgid "Cyllo Analytic Dashboard"
+msgstr "Tablero Analítico de Cyllo"
+
+#. module: cyllo_analytics
+#: model:ir.module.category,name:cyllo_analytics.ir_module_category_cyllo_analytic_dashboard_access
+msgid "Cyllo Analytic Dashboard Access"
+msgstr "Acceso al Tablero Analítico de Cyllo"
+
+#. module: cyllo_analytics
+#: model:ir.ui.menu,name:cyllo_analytics.menu_cyllo_analytics_root
+#: model_terms:ir.ui.view,arch_db:cyllo_analytics.view_res_config_settings_form
+msgid "Cyllo Analytics"
+msgstr "Cyllo Analytics"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_ir_ui_menu__is_cyllo_analytic_menu
+msgid "Cyllo Analytics Menu"
+msgstr "Menú de Cyllo Analytics"
+
+#. module: cyllo_analytics
+#: model:ir.actions.client,name:cyllo_analytics.cyllo_dashboard_action
+msgid "Cyllo Dashboard"
+msgstr "Tablero de Cyllo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Dark Mode"
+msgstr "Modo Oscuro"
+
+#. module: cyllo_analytics
+#: model:ir.ui.menu,name:cyllo_analytics.menu_dashboard
+msgid "Dashboard"
+msgstr "Tablero"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#, python-format
+msgid ""
+"Dashboard\n"
+"                                Configuration"
+msgstr "Configuración\n del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_banner
+msgid "Dashboard Banner"
+msgstr "Banner del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__dashboard_config_id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__dashboard_config_id
+msgid "Dashboard Config"
+msgstr "Configuración del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_config
+msgid "Dashboard Configuration"
+msgstr "Configuración del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_config_menu
+msgid "Dashboard Configuration Menu"
+msgstr "Menú de Configuración del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_filter
+msgid "Dashboard Filter"
+msgstr "Filtro del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_global_filter
+msgid "Dashboard Global Filter"
+msgstr "Filtro Global del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_presentation
+msgid "Dashboard Presentation"
+msgstr "Presentación del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.actions.act_window,name:cyllo_analytics.action_view_sheets
+#: model:ir.model,name:cyllo_analytics.model_dashboard_sheet
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__dashboard_sheet_id
+#: model_terms:ir.ui.view,arch_db:cyllo_analytics.view_dashboard_sheet_tile
+msgid "Dashboard Sheet"
+msgstr "Hoja del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_sheet_axis
+msgid "Dashboard Sheet Axis"
+msgstr "Eje de la Hoja del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_sheet_global
+msgid "Dashboard Sheet Global"
+msgstr "Global de la Hoja del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_sheet_option
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__dashboard_sheet_option_ids
+msgid "Dashboard Sheet Option"
+msgstr "Opción de la Hoja del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_sheet_table
+msgid "Dashboard Sheet Table"
+msgstr "Tabla de la Hoja del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_sheet_type
+msgid "Dashboard Sheet Types"
+msgstr "Tipos de Hoja del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_sheet_filter
+msgid "Dashboard Sheet filter"
+msgstr "Filtro de la Hoja del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_theme
+msgid "Dashboard Theme"
+msgstr "Tema del Tablero"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_dashboard_theme_color
+msgid "Dashboard Theme Color"
+msgstr "Color del Tema del Tablero"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid ""
+"Data fetched is empty. Some unused\n"
+"                                        tables are still connected."
+msgstr "Los datos obtenidos están vacíos. Algunas tablas sin usar todavía están conectadas."
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__12
+msgid "December"
+msgstr "Diciembre"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/delete_dialog_box.js:0
+#: code:addons/cyllo_analytics/static/src/views/tile/components/tile_card.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Delete"
+msgstr "Eliminar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "Delete node"
+msgstr "Eliminar nodo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#, python-format
+msgid "Description"
+msgstr "Descripción"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__dimension
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_sheet_axis__type__dimension
+msgid "Dimension"
+msgstr "Dimensión"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__dimension_axis
+msgid "Dimension Axis"
+msgstr "Eje de Dimensión"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/edit_dashboard.xml:0
+#, python-format
+msgid "Discard"
+msgstr "Descartar"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__display_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__display_name
+msgid "Display Name"
+msgstr "Nombre para Mostrar"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__domain
+msgid "Domain"
+msgstr "Dominio"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__domain_py_expression
+msgid "Domain Py Expression"
+msgstr "Expresión Py de Dominio"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "Domain node"
+msgstr "Nodo de Dominio"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/tests/tours/dashboard_onboarding.js:0
+#, python-format
+msgid "Drag and Drop Dimension to the AXIS column to your right"
+msgstr "Arrastra y suelta la Dimensión en la columna EJE a tu derecha"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/tests/tours/dashboard_onboarding.js:0
+#, python-format
+msgid "Drag and Drop Measures to the other AXIS column to your right"
+msgstr "Arrastra y suelta las Medidas en la otra columna EJE a tu derecha"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#, python-format
+msgid ""
+"Due to the size of the data, the analysis provided by the AI model reflects "
+"approximately the last"
+msgstr "Debido al tamaño de los datos, el análisis proporcionado por el modelo de IA refleja aproximadamente los últimos"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Edit"
+msgstr "Editar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Edit Layout"
+msgstr "Editar Diseño"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__is_enabled
+msgid "Enabled"
+msgstr "Habilitado"
+
+#. module: cyllo_analytics
+#: model_terms:ir.ui.view,arch_db:cyllo_analytics.view_res_config_settings_form
+msgid ""
+"Enter your OpenAI API key here. This key is required for accessing OpenAI "
+"services"
+msgstr "Ingrese su clave API de OpenAI aquí. Esta clave es necesaria para acceder a los servicios de OpenAI"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Export as JSON"
+msgstr "Exportar como JSON"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Export as PNG"
+msgstr "Exportar como PNG"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__2
+msgid "February"
+msgstr "Febrero"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__field
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__field
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__field
+msgid "Field"
+msgstr "Campo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/import_dialog.xml:0
+#, python-format
+msgid "File"
+msgstr "Archivo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Filter"
+msgstr "Filtro"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/sheetFilterDomain.xml:0
+#, python-format
+msgid "Filter Name"
+msgstr "Nombre del Filtro"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/filterDropdown.js:0
+#: code:addons/cyllo_analytics/static/src/js/filterDropdown.js:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__axis_ids
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__filter_ids
+#, python-format
+msgid "Filters"
+msgstr "Filtros"
+
+#. module: cyllo_analytics
+#: model_terms:ir.ui.view,arch_db:cyllo_analytics.view_res_config_settings_form
+msgid "Financial Year Last Day"
+msgstr "Último día del año financiero"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_res_config_settings__fiscal_year_last_day
+msgid "Fiscal Year Last Day"
+msgstr "Último día del año fiscal"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/presentation_maker.xml:0
+#, python-format
+msgid "FullScreen"
+msgstr "Pantalla completa"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__global_filter_ids
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__global_filter_id
+#, python-format
+msgid "Global Filter"
+msgstr "Filtro Global"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/presentation_maker.xml:0
+#, python-format
+msgid "Go Back"
+msgstr "Regresar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/views/tile/components/tile_card.xml:0
+#, python-format
+msgid "Graphs"
+msgstr "Gráficos"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_sheet_axis__type__group
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__group_ids
+#, python-format
+msgid "Groups"
+msgstr "Grupos"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__header_title_color
+msgid "Header Title Color"
+msgstr "Color del título del encabezado"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#, python-format
+msgid "Heading:"
+msgstr "Encabezado:"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Hide"
+msgstr "Ocultar"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__id
+msgid "ID"
+msgstr "ID"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__image_1920
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__image_1920
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__image_1920
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__image
+msgid "Image"
+msgstr "Imagen"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__image_1024
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__image_1024
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__image_1024
+msgid "Image 1024"
+msgstr "Imagen 1024"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__image_128
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__image_128
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__image_128
+msgid "Image 128"
+msgstr "Imagen 128"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__image_256
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__image_256
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__image_256
+msgid "Image 256"
+msgstr "Imagen 256"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__image_512
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__image_512
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__image_512
+msgid "Image 512"
+msgstr "Imagen 512"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/views/tile/tile_controller.xml:0
+#: code:addons/cyllo_analytics/static/src/views/tile/tile_controller.xml:0
+#, python-format
+msgid "Import"
+msgstr "Importar"
+
+#. module: cyllo_analytics
+#. odoo-python
+#: code:addons/cyllo_analytics/models/res_config_settings.py:0
+#, python-format
+msgid "Invalid fiscal year last day"
+msgstr "Día final del año fiscal no válido"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/presentation_maker.xml:0
+#, python-format
+msgid ""
+"It appears that the presentation session may have been lost. To restart the session,\n"
+"\t\t\t\t\t\t\tplease go back and click on 'Start' to continue with the presentation.\n"
+"\t\t\t\t\t\t\tWe apologize for any inconvenience and appreciate your understanding."
+msgstr ""
+"Parece que la sesión de la presentación puede haberse perdido. Para reiniciar la sesión,\n"
+"\t\t\t\t\t\t\tpor favor vuelva atrás y haga clic en 'Iniciar' para continuar con la presentación.\n"
+"\t\t\t\t\t\t\tPedimos disculpas por cualquier inconveniente y agradecemos su comprensión."
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__1
+msgid "January"
+msgstr "Enero"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__join
+msgid "Join"
+msgstr "Unir"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__7
+msgid "July"
+msgstr "Julio"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__6
+msgid "June"
+msgstr "Junio"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_icon
+#, python-format
+msgid "KPI Icon"
+msgstr "Icono KPI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_model
+msgid "KPI Model"
+msgstr "Modelo KPI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_redirect
+msgid "KPI Redirect"
+msgstr "Redirección KPI"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#, python-format
+msgid "KPI Target"
+msgstr "Objetivo KPI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_target_perc
+msgid "KPI Target Percentage"
+msgstr "Porcentaje del objetivo KPI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_view
+msgid "KPI Target View"
+msgstr "Vista del objetivo KPI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_description
+msgid "Kpi Description"
+msgstr "Descripción KPI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_target
+msgid "Kpi Target"
+msgstr "Objetivo KPI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__label_text
+msgid "Label Text"
+msgstr "Texto de etiqueta"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Landscape"
+msgstr "Horizontal"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__write_uid
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_option__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__write_date
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__write_date
+msgid "Last Updated on"
+msgstr "Última actualización el"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/presentation_maker.xml:0
+#, python-format
+msgid "Leave Presentation"
+msgstr "Salir de la presentación"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__limit
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__limit
+#: model:ir.model.fields,field_description:cyllo_analytics.field_res_config_settings__limit
+#, python-format
+msgid "Limit"
+msgstr "Límite"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_res_config_settings__limit_record
+msgid "Limit Records"
+msgstr "Limitar registros"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid ""
+"Limits the number of records\n"
+"                                                    used for this chart."
+msgstr ""
+"Limita el número de registros\n"
+"                                                    utilizados para este gráfico."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Link"
+msgstr "Enlace"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Link Model"
+msgstr "Modelo de enlace"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__ir_menu_ids
+#, python-format
+msgid "Linked Menus"
+msgstr "Menús vinculados"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__linked
+msgid "Linked String"
+msgstr "Cadena vinculada"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__3
+msgid "March"
+msgstr "Marzo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "Match"
+msgstr "Coincidir"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__5
+msgid "May"
+msgstr "Mayo"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__measure
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_sheet_axis__type__measure
+msgid "Measure"
+msgstr "Medida"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#, python-format
+msgid "Measuring view"
+msgstr "Vista de medición"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_ir_ui_menu
+msgid "Menu"
+msgstr "Menú"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__model
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__model_id
+msgid "Model"
+msgstr "Modelo"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_ir_model
+msgid "Models"
+msgstr "Modelos"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_res_config_settings__fiscal_year_last_month
+msgid "Month"
+msgstr "Mes"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/KpiSheet.js:0
+#: code:addons/cyllo_analytics/static/src/js/cyllo_dashboard.js:0
+#, python-format
+msgid "My Dashboard"
+msgstr "Mi Panel"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/menu_dialog_templates.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_banner__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_filter__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__kpi_name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__value
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__name
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__name
+#, python-format
+msgid "Name"
+msgstr "Nombre"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,help:cyllo_analytics.field_ir_model__table_name
+msgid ""
+"Name of the field is auto completed using post_init_hook to get the field "
+"name for reference"
+msgstr ""
+"El nombre del campo se completa automáticamente usando post_init_hook para obtener el "
+"nombre del campo como referencia"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "New"
+msgstr "Nuevo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "New Rule"
+msgstr "Nueva Regla"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_sheet__kpi_view__no_view
+msgid "No View"
+msgstr "Sin Vista"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#, python-format
+msgid "No data available at this moment."
+msgstr "No hay datos disponibles en este momento."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "No sheets here! Let's whip up a new one!"
+msgstr "¡No hay hojas aquí! ¡Vamos a crear una nueva!"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__11
+msgid "November"
+msgstr "Noviembre"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__10
+msgid "October"
+msgstr "Octubre"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_res_config_settings__openai_api_key
+msgid "Openai Api Key"
+msgstr "Clave API de OpenAI"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__operator
+msgid "Operator"
+msgstr "Operador"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid ""
+"Or If you already have charts in the sheets model you can navigate to the "
+"sheets menu,"
+msgstr ""
+"O si ya tiene gráficos en el modelo de hojas, puede navegar al "
+"menú de hojas,"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_sheet_axis__type__order
+msgid "Order By"
+msgstr "Ordenar por"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/menu_dialog_templates.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config_menu__menu_id
+#, python-format
+msgid "Parent Menu"
+msgstr "Menú padre"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Period"
+msgstr "Período"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#, python-format
+msgid "Play"
+msgstr "Reproducir"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/sheetFilterDomain.xml:0
+#, python-format
+msgid ""
+"Please\n"
+"                            Provide a valid domain or remove the empty domain"
+msgstr ""
+"Por favor\n"
+"                            Proporcione un dominio válido o elimine el dominio vacío"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Portrait"
+msgstr "Vertical"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_res_config_settings__is_financial_year
+msgid "Predict Churn based on Financial Year"
+msgstr "Predecir la rotación en función del año financiero"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Presentation"
+msgstr "Presentación"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#, python-format
+msgid "Presentation Preview"
+msgstr "Vista previa de la presentación"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Print"
+msgstr "Imprimir"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Query"
+msgstr "Consulta"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__query
+msgid "Query Editor"
+msgstr "Editor de consultas"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__query_gen
+msgid "Query Generated"
+msgstr "Consulta generada"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/edit_dashboard.xml:0
+#, python-format
+msgid "Rearrange"
+msgstr "Reorganizar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#, python-format
+msgid "Redirect to Record"
+msgstr "Redirigir al registro"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#, python-format
+msgid "Regenerate"
+msgstr "Regenerar"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__relation
+msgid "Relation"
+msgstr "Relación"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/sheetDomainSelector.xml:0
+#, python-format
+msgid "Remove Group"
+msgstr "Eliminar grupo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/sheetFilterDomain.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/edit_dashboard.xml:0
+#, python-format
+msgid "Save"
+msgstr "Guardar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Search"
+msgstr "Buscar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/tests/tours/dashboard_onboarding.js:0
+#, python-format
+msgid "Search for a model or multiple models and select those tables here"
+msgstr "Busque un modelo o varios modelos y seleccione esas tablas aquí"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Search..."
+msgstr "Buscar..."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#, python-format
+msgid "Select Icon"
+msgstr "Seleccionar icono"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/components/select_user.xml:0
+#, python-format
+msgid "Select User"
+msgstr "Seleccionar usuario"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#, python-format
+msgid "Send"
+msgstr "Enviar"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__res_config_settings__fiscal_year_last_month__9
+msgid "September"
+msgstr "Septiembre"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid ""
+"Set the value to zero to\n"
+"                                                    have no limit."
+msgstr ""
+"Establezca el valor en cero para\n"
+"                                                    no tener límite."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.js:0
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#: model:ir.actions.act_window,name:cyllo_analytics.action_view_settings
+#: model:ir.ui.menu,name:cyllo_analytics.menu_settings
+#, python-format
+msgid "Settings"
+msgstr "Configuración"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#, python-format
+msgid "Share"
+msgstr "Compartir"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__sheet_id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_filter__sheet_id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_global__sheet_id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_table__sheet_id
+msgid "Sheet"
+msgstr "Compartir"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__sheet_filter_ids
+#, python-format
+msgid "Sheet Filter"
+msgstr "Filtro de hoja"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__sheet_type_id
+msgid "Sheet Type"
+msgstr "Tipo de hoja"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "Sheet name"
+msgstr "Nombre de la hoja"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__sheet_ids
+#: model:ir.ui.menu,name:cyllo_analytics.menu_sheets
+#, python-format
+msgid "Sheets"
+msgstr "Hojas"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__skip_filter
+msgid "Skip filter"
+msgstr "Omitir filtro"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#, python-format
+msgid "Slide Duration (In Seconds):"
+msgstr "Duración de la diapositiva (en segundos):"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#, python-format
+msgid "Start"
+msgstr "Iniciar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__style
+msgid "Style"
+msgstr "Estilo"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__style_json
+msgid "Style Json"
+msgstr "JSON de estilo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#, python-format
+msgid "Subheading:"
+msgstr "Subtítulo:"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__subtitle
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_ir_model__table_name
+msgid "Table Name"
+msgstr "Nombre de la tabla"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__table_ids
+#, python-format
+msgid "Tables"
+msgstr "Tablas"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#, python-format
+msgid "Target Value"
+msgstr "Valor objetivo"
+
+#. module: cyllo_analytics
+#: model:ir.ui.menu,name:cyllo_analytics.menu_templates
+msgid "Templates"
+msgstr "Plantillas"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__query
+msgid "Text"
+msgstr "Texto"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "The dashboard is not supported in smaller devices yet."
+msgstr "El panel aún no es compatible con dispositivos más pequeños."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/menu_dialog_templates.xml:0
+#, python-format
+msgid ""
+"The dashboard menu will be displayed as a sub-menu\n"
+"                                of the selected parent menu with the given name."
+msgstr ""
+"El menú del panel se mostrará como un submenú\n"
+"                                del menú padre seleccionado con el nombre indicado."
+
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/cyllo_sheet.js:0
+#, python-format
+msgid ""
+"The sheet cannot display the graph because it is missing some information. "
+"It cannot access the ${model}: ${data.has_error.value.join(\", \")}."
+msgstr ""
+"La hoja no puede mostrar el gráfico porque falta alguna información. "
+"No puede acceder al ${model}: ${data.has_error.value.join(\", \")}."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/cyllo_dashboard.js:0
+#, python-format
+msgid "The start date cannot be greater than the end date"
+msgstr "La fecha de inicio no puede ser mayor que la fecha de finalización"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__theme_id
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__theme
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__theme_color_ids
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme_color__theme_id
+#, python-format
+msgid "Theme"
+msgstr "Tema"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__theme_json
+msgid "Theme Json"
+msgstr "Tema Json"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "Themes"
+msgstr "Temas"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.js:0
+#, python-format
+msgid "There is no data to be shown in the presentation"
+msgstr "No hay datos para mostrar en la presentación"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "This Dashboard Shows Information From"
+msgstr "Este panel muestra información de"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/sheetFilterDomain.xml:0
+#, python-format
+msgid ""
+"This Filter\n"
+"                            is not editable at the moment, but it supports\n"
+"                            toggling on and off."
+msgstr ""
+"Este filtro\n"
+"                            no es editable en este momento, pero admite\n"
+"                            activarse y desactivarse."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#, python-format
+msgid "This Menu shows all the Menus that are linked to this dashboard"
+msgstr "Este menú muestra todos los menús que están vinculados a este panel"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/views/tile/tile_view.js:0
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__ir_actions_act_window_view__view_mode__tile
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__ir_ui_view__type__tile
+#, python-format
+msgid "Tile"
+msgstr "Mosaico"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_theme__title
+msgid "Title"
+msgstr "Título"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/presentation/presentation.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__title_page
+#, python-format
+msgid "Title Page"
+msgstr "Página de título"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__title_page_heading
+msgid "Title Page Heading"
+msgstr "Encabezado de la página de título"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__title_page_subheading
+msgid "Title Page Subheading"
+msgstr "Subtítulo de la página de título"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_type__ttype
+msgid "Ttype"
+msgstr "Tipo"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_global_filter__type
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_presentation__type
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet__type
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_sheet_axis__type
+msgid "Type"
+msgstr "Tipo"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/explain_with_ai_modal.xml:0
+#, python-format
+msgid "Type here..."
+msgstr "Escriba aquí..."
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/import_dialog.xml:0
+#, python-format
+msgid "Upload File"
+msgstr "Subir archivo"
+
+#. module: cyllo_analytics
+#: model:res.groups,name:cyllo_analytics.group_cyllo_analytics_user
+msgid "User"
+msgstr "Usuario"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/configuration_dialog.xml:0
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__user_ids
+#: model:ir.model.fields,field_description:cyllo_analytics.field_dashboard_config__users_ids
+#, python-format
+msgid "Users"
+msgstr "Usuarios"
+
+#. module: cyllo_analytics
+#: model:ir.model,name:cyllo_analytics.model_ir_ui_view
+msgid "View"
+msgstr "Vista"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_sheet__kpi_view__view_1
+#, python-format
+msgid "View 1"
+msgstr "Vista 1"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/kpi_sheet.xml:0
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_sheet__kpi_view__view_2
+#, python-format
+msgid "View 2"
+msgstr "Vista 2"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "View Records"
+msgstr "Ver registros"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields,field_description:cyllo_analytics.field_ir_actions_act_window_view__view_mode
+#: model:ir.model.fields,field_description:cyllo_analytics.field_ir_ui_view__type
+#: model:ir.model.fields,field_description:cyllo_analytics.field_website_controller_page__type
+#: model:ir.model.fields,field_description:cyllo_analytics.field_website_page__type
+msgid "View Type"
+msgstr "Tipo de vista"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "all"
+msgstr "todos"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "any"
+msgstr "cualquiera"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "any records"
+msgstr "cualquier registro"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/sheetFilterDomain.xml:0
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "close"
+msgstr "cerrar"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/explain_with_ai/components/chat_thread.xml:0
+#, python-format
+msgid "copied!!!"
+msgstr "¡copiado!"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "for"
+msgstr "para"
+
+#. module: cyllo_analytics
+#: model:ir.model.fields.selection,name:cyllo_analytics.selection__dashboard_global_filter__operator__in
+msgid "in"
+msgstr "en"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "none"
+msgstr "ninguno"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "not all"
+msgstr "no todos"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "of the following rules for"
+msgstr "de las siguientes reglas para"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/js/sheet_filter/tree_editor.xml:0
+#, python-format
+msgid "of:"
+msgstr "de:"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "set currency rate in settings to get precise result"
+msgstr "establezca la tasa de cambio en la configuración para obtener un resultado preciso"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_dashboard.xml:0
+#, python-format
+msgid "to"
+msgstr "a"
+
+#. module: cyllo_analytics
+#. odoo-javascript
+#: code:addons/cyllo_analytics/static/src/xml/cyllo_sheet.xml:0
+#, python-format
+msgid "{{!state.configs.length and 'Connect Your Dashboards here'}}"
+msgstr "{{!state.configs.length and 'Conecte sus paneles aquí'}}"

@@ -1,0 +1,36 @@
+/* tile_card.css — restructured from the former monolithic style.css.
+   Shared rules, :root vars and @media/@keyframes live in style.css. */
+
+.tile_delete:hover {
+    color: red;
+}
+
+.tile_card_image-container {
+    position: relative;
+    width: 170px;
+    height: 135px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tile_card_image-container img {
+    width: 100%;
+    transition: transform 0.3s ease-in-out;
+}
+
+.tile_card_image-container:hover img {
+    transform: scale(1.1);
+}
+
+.cy_tile_card_box:hover {
+    border-color: #9ea700;
+}
+
+.cy_tile_card_box {
+    padding: 0.6rem;
+    max-width: 19%;
+    flex-direction: column;
+    min-width: 18%;
+}

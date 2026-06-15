@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="view_dashboard_config_tile" model="ir.ui.view">
+        <field name="name">view.dashboard.config.tile</field>
+        <field name="model">dashboard.config</field>
+        <field name="arch" type="xml">
+            <tile string="Cyllo Analytic Dashboard">
+                <field name="id"/>
+                <field name="name"/>
+                <field name="group_ids"/>
+                <field name="user_ids"/>
+                <field name="limit"/>
+                <field name="theme_id"/>
+            </tile>
+        </field>
+    </record>
+
+    <!-- Action for dashboard templates -->
+    <record id="action_view_templates" model="ir.actions.act_window">
+        <field name="name">Analytic Dashboard</field>
+        <field name="res_model">dashboard.config</field>
+        <field name="view_mode">tile,form</field>
+    </record>
+
+    <!-- Root menu -->
+    <menuitem groups="group_cyllo_analytics_user"
+              id="menu_cyllo_analytics_root"
+              web_icon="cyllo_analytics,static/description/cyllo_analytics.svg"
+              name="Cyllo Analytics"/>
+
+    <!-- Templates submenu -->
+    <menuitem id="menu_templates"
+              name="Templates"
+              parent="menu_cyllo_analytics_root"
+              action="action_view_templates"/>
+</odoo>
